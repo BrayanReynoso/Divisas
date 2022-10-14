@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticaDivisas</string>
+    <string name="cambio">Ingrese cantidad a cambiar</string>
+    <string name="btn_cambio">Cambiar</string>
+    <string name="resultado">EL cambio es: </string>
+    <string-array name="divisas">
+        <item>Peso Mexicano</item>
+        <item>Dolar Estadounidense</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
